@@ -1,0 +1,130 @@
+-------------------------------------------------------------
+1.take two number from user and check both are equal or not.
+--------------------------algorithm--------------------------
+Step1: Start
+Step2: Declare Variable no1 and no2
+Step3: Read values no1 and no2
+Step4: Check if the num1 and num2 are equal or not 
+Step5: if the num1 and num2 are equal then 
+		 print "no1 and no2 are equal"
+Step6: Otherwise print "no1 and no2 are not equal"
+Step7: Stop
+
+-------------------------------------------------------------
+2.take the number from user and check number is odd or even.
+--------------------------algorithm--------------------------
+Step1: Start
+Step2: Declare Variable number
+Step3: Read values number
+Step4: Check if the number divisible by 2 and result is zero or not
+Step5: if the result is zero then
+		 print "entered number is even"
+Step6: Otherwise print "entered number is odd"
+Step7: Stop
+
+-----------------------------------------------------------------
+3.take the year from the user and check year is leap year or not.
+--------------------------algorithm------------------------------
+Step1: Start
+Step2: Declare Variable year
+Step3: Read values year
+Step4: Check if the year divisible by 400
+Step5: if it is divisible by 400 then 
+		 print "entered year is leap year"
+Step6: else if it is not divisible by 100 then 
+		 print "entered year is leap year"
+Step7: else if it is divisible by 4 then 
+		 print "entered year is leap year"
+Step8: else print "entered year is not a leap year"
+Step9: Stop
+
+---------------------------------------------------------------------------
+4.take the input from the user and check the input is alphabate or number.
+------------------------------algorithm------------------------------------
+Step1: Start
+Step2: Declare Variable input
+Step3: Read values input
+Step4: Check if the input>='a' and input<='z' or input>='A' and input<='Z'
+		 then print "your input is an alphabet"
+Step5: else if the input>='1' and input<='9' then
+		 print "your input is an number"
+Step6: else print "your input is not an alphabet or not a number"
+Step7: Stop
+
+------------------------------------------------------------------------------
+5.take the number from the user and check number is positive,negative or zero.
+--------------------------------algorithm-------------------------------------
+Step1: Start
+Step2: Declare Variable number
+Step3: Read values number
+Step4: Check if the number>0 then 
+		 print "entered number is positive"
+Step4: else if the number<0 then
+		 print "entered number is negative"
+Step5: else print "entered number is Zero"
+Step6: Stop
+
+----------------------------------------------------------------------
+6.take the character from the user and check it is vowel or consonant.
+-----------------------------algorithm--------------------------------
+Step1: Start
+Step2: Declare Variable letter
+Step3: Read values letter
+Step4: Check if letter is equal to 'a','e','i','o','u',
+	    'A','E','I','O','U' then print "entered charcater is vowel"
+Step4: else print "entered charcater is consonant"
+Step5: Stop
+
+--------------------------------------------------------------------
+7.take three number from user and check largest number between them.
+----------------------------algorithm-------------------------------
+Step1: Start
+Step2: Declare Variable no1,no2 and no3
+Step3: Read values no1,no2 and no3
+Step4: Check if no1 is greater then no2 and no3 then
+		 print "number one is lagrgest number between them"
+Step5: else if no2 is greater then no1 and no3 then
+		 print "number two is lagrgest number between them"
+Step6: else print "number three is lagrgest number between them"
+Step7: Stop
+
+---------------------------------------------------------------------
+8.take three number from user and check smallest number between them.
+----------------------------algorithm--------------------------------
+Step1: Start
+Step2: Declare Variable no1,no2 and no3
+Step3: Read values no1,no2 and no3
+Step4: Check if no1 is smaller then no2 and no3 then
+		 print "number one is smallest number between them"
+Step5: else if no2 is smaller then no1 and no3 then
+		 print "number two is smallest number between them"
+Step6: else print "number three is smallest number between them"
+Step7: Stop
+
+------------------------------------------------------------
+9.take the percentage from user and follow below conditions:
+		per>80 --> A+
+		per>70 --> A
+	   per>55 --> B
+		per>35 --> PASS
+		per<35 && per>0 --> FAIL
+		else --> invalid per
+--------------------------algorithm--------------------------
+Step1: Start
+Step2: Declare Variable per
+Step3: Read values per
+Step4: Check if per greater then or equal to 80 and per less 
+		 then 100 then print "Grad-->A+"
+Step5: else if per greater then or equal to 70 and per less 
+		 then 80 then print "Grad-->A"
+Step6: else if per greater then or equal to 55 and per less 
+		 then 70 then print "Grad-->B"
+Step5: else if per greater then or equal to 35 and per less 
+		 then 55 then print "Grad-->Pass"
+Step5: else if per less then to 35 and per greater then Zero 
+	    then print "Fail"
+Step6: else print "invalid percentage"
+Step7: Stop
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
