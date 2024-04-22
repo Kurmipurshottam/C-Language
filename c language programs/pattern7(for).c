@@ -1,8 +1,8 @@
 /*
 print that pattern in c language
   1
- 44
-999
+ 12
+123
 */
 #include<stdio.h>
 int main()
